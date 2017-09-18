@@ -1,6 +1,6 @@
 # @apsis/tslint-config-angular
 
-Apsis' best practice TSLint config for Angular 2, using [codelyzer][codelyzer] rules.
+Apsis's best practice TSLint config for Angular, using [codelyzer][codelyzer] rules.
 
 ## Usage
 
