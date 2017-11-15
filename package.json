@@ -1,6 +1,6 @@
 {
   "name": "@apsis/tslint-config-angular",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "tslint.js",
   "description": "The TSLint angular config used by Apsis RnD",
   "author": "Johanna Larsson <johanna.larsson@apsis.com>",
@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "codelyzer": "^3.2.0"
+    "codelyzer": "^4.0.1"
   }
 }

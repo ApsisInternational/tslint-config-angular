@@ -10,8 +10,6 @@ module.exports = {
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
-    "directive-class-suffix": true,
-    "templates-use-public": true,
-    "invoke-injectable": true
+    "directive-class-suffix": true
   }
 };
